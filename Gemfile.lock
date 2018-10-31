@@ -65,7 +65,7 @@ GEM
       rails (>= 4.2, < 6)
       rsolr (>= 1.0.6, < 3)
       twitter-typeahead-rails (= 0.11.1.pre.corejavascript)
-    blacklight-access_controls (0.7.0)
+    blacklight-access_controls (0.6.2)
       blacklight (> 6.0, < 8)
       cancancan (~> 1.8)
       deprecation (~> 1.0)
@@ -365,7 +365,7 @@ DEPENDENCIES
   jquery-rails
   listen (~> 3.0.5)
   puma (~> 3.0)
-  rails (~> 5.0.7)
+  rails (~> 5.0.1)
   rsolr (~> 1.0)
   rspec-rails
   sass-rails (~> 5.0)
